@@ -8,13 +8,19 @@ Welcome to my GitHub profile! I'm Luan Garcia, a 23-year-old software developmen
 
 ## 🚀 What I'm Up To
 
-🌟 Currently diving deep into front-end technologies, honing my skills in HTML, CSS, JavaScript, and beyond. I believe in the power of visual aesthetics and its impact on user engagement.
+🌟 Currently diving deep into front-end technologies, honing my skills in:
+
+- HTML 🌐
+- CSS 🎨
+- JavaScript 🚀
+- PHP 🖥️
+
+I believe in the power of visual aesthetics and its impact on user engagement.
 
 💡 Exploring the art of turning design concepts into interactive and responsive web interfaces. I love creating seamless and delightful user experiences.
 
 ## 📬 Let's Connect
 
-📩 Feel free to reach out to me at luangarciaoficial@gmail.com. I'm always open to new collaborations, discussions, and opportunities to learn and grow together.
+📩 Feel free to reach out to me at luangarciaoficial@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/luanvgarcia). I'm always open to new collaborations, discussions, and opportunities to learn and grow together.
 
 Let's code, collaborate, and create amazing front-end wonders together! 🎨🚀
-
