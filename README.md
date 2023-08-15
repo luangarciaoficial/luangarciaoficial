@@ -10,10 +10,10 @@ Welcome to my GitHub profile! I'm Luan Garcia, a 23-year-old software developmen
 
 🌟 Currently diving deep into front-end technologies, honing my skills in:
 
-- HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-- CSS 🎨
-- JavaScript 🚀
-- PHP 🖥️
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 
 I believe in the power of visual aesthetics and its impact on user engagement.
 
