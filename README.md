@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 # 👋 Hey there, I'm Luan Garcia!
 
 👨‍💻 Full Stack Explorer | 🌐 Front-End Enthusiast
@@ -21,4 +18,3 @@ Welcome to my GitHub profile! I'm Luan Garcia, a 23-year-old software developmen
 
 Let's code, collaborate, and create amazing front-end wonders together! 🎨🚀
 
--->
