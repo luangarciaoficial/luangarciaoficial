@@ -1,16 +1,24 @@
 ### Hi there 👋
 
 <!--
-**luangarciaoficial/luangarciaoficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey there, I'm Luan Garcia!
 
-Here are some ideas to get you started:
+👨‍💻 Full Stack Explorer | 🌐 Front-End Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📚 Studying at Fatec Itapira | 🎓 Semester 2/2022 - Semester 6/2024
+
+Welcome to my GitHub profile! I'm Luan Garcia, a 23-year-old software development student at Fatec Itapira Ogari de Castro Pacheco. I'm passionate about crafting user-centric front-end experiences and building multiplatform software.
+
+## 🚀 What I'm Up To
+
+🌟 Currently diving deep into front-end technologies, honing my skills in HTML, CSS, JavaScript, and beyond. I believe in the power of visual aesthetics and its impact on user engagement.
+
+💡 Exploring the art of turning design concepts into interactive and responsive web interfaces. I love creating seamless and delightful user experiences.
+
+## 📬 Let's Connect
+
+📩 Feel free to reach out to me at luangarciaoficial@gmail.com. I'm always open to new collaborations, discussions, and opportunities to learn and grow together.
+
+Let's code, collaborate, and create amazing front-end wonders together! 🎨🚀
+
 -->
