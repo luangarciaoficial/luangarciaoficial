@@ -1,26 +1,24 @@
-# 👋 Hey there, I'm Luan Garcia!
 
-👨‍💻 Full Stack Explorer | 🌐 Front-End Enthusiast
+👋 Olá, sou Luan Garcia!
+👨‍💻 Programador Front-End | 🌐 Entusiasta de Front-End
 
-📚 Studying at Fatec Itapira | 🎓 Semester 2/2022 - Semester 6/2024
+📚 Estudante na Fatec Itapira | 🎓 Semestre 2/2022 - Semestre 6/2024
 
-Welcome to my GitHub profile! I'm Luan Garcia, a 23-year-old software development student at Fatec Itapira Ogari de Castro Pacheco. I'm passionate about crafting user-centric front-end experiences and building multiplatform software.
+Bem-vindo ao meu perfil no GitHub! Eu sou Luan Garcia, um estudante de desenvolvimento de software de 23 anos na Fatec Itapira Ogari de Castro Pacheco. Sou apaixonado por criar experiências front-end centradas no usuário e desenvolver software multiplataforma.
 
-## 🚀 What I'm Up To
+🚀 O Que Estou Fazendo
+🌟 Atualmente mergulhando fundo em tecnologias front-end, aprimorando minhas habilidades em:
 
-🌟 Currently diving deep into front-end technologies, honing my skills in:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20" /> HTML
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="20" height="20" /> CSS
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" /> JavaScript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" /> React
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="20" height="20" /> PHP
+Eu acredito no poder da estética visual e seu impacto no envolvimento do usuário.
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20" /> HTML 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="20" height="20" /> CSS 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" /> JavaScript 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="20" height="20" /> PHP 
+💡 Explorando a arte de transformar conceitos de design em interfaces web interativas e responsivas. Adoro criar experiências de usuário contínuas e encantadoras.
 
-I believe in the power of visual aesthetics and its impact on user engagement.
+📬 Vamos Conectar
+📩 Sinta-se à vontade para entrar em contato comigo pelo luangarciaoficial@gmail.com ou conectar-se comigo no LinkedIn. Estou sempre aberto a novas colaborações, discussões e oportunidades para aprender e crescer juntos.
 
-💡 Exploring the art of turning design concepts into interactive and responsive web interfaces. I love creating seamless and delightful user experiences.
-
-## 📬 Let's Connect
-
-📩 Feel free to reach out to me at luangarciaoficial@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/luanvgarcia). I'm always open to new collaborations, discussions, and opportunities to learn and grow together.
-
-Let's code, collaborate, and create amazing front-end wonders together! 🎨🚀
+Vamos codificar, colaborar e criar maravilhas front-end incríveis juntos! 🎨🚀
