@@ -15,6 +15,4 @@
 💡 Explorando a arte de transformar conceitos de design em interfaces web interativas e responsivas. Adoro criar experiências de usuário contínuas e encantadoras.
 
 📬 Vamos Conectar
-📩 Sinta-se à vontade para entrar em contato comigo pelo luangarciaoficial@gmail.com ou conectar-se comigo no LinkedIn. Estou sempre aberto a novas colaborações, discussões e oportunidades para aprender e crescer juntos.
-
-Vamos codificar, colaborar e criar maravilhas front-end incríveis juntos! 🎨🚀
+📩 Sinta-se à vontade para entrar em contato comigo pelo luangarciadev@gmail.com. Estou sempre aberto a novas colaborações, discussões e oportunidades para aprender e crescer juntos.
